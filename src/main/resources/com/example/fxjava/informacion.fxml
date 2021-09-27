@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="333.0" prefWidth="440.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextArea editable="false" layoutX="36.0" layoutY="44.0" prefHeight="246.0" prefWidth="369.0" style="-fx-background-color: transparent;" text="Integrantes:&#10;Karen Julieth Hernández Chaparro&#10;Código: 201920739&#10;Deisy Carolina Monroy Gutiérrez&#10;Código: 201924822&#10;">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font>
+      </TextArea>
+   </children>
+</AnchorPane>
