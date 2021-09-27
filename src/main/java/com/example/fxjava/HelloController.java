@@ -37,6 +37,7 @@ public class HelloController implements Initializable {
     @FXML
     private Button iniciarJuego;
 
+
     @FXML
     private Button acercaDe;
 
